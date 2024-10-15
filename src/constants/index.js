@@ -124,6 +124,14 @@ export const socialLinks = [
 
 export const projects = [
   {
+    iconUrl: snapgram,
+    theme: "btn-back-pink",
+    name: "An Organic Store",
+    description:
+      "Created a web-based store with an adaptive, responsive interface, tailored to improve user experience.Integrated Auth0 for secure user authentication, ensuring robust data protection and seamless login functionality",
+    link: "https://organic-store-kartik.vercel.app/",
+  },
+  {
     iconUrl: pricewise,
     theme: "btn-back-red",
     name: "Expense-Tracker",
@@ -145,14 +153,7 @@ export const projects = [
     description:"Developed an interactive Movie/Show web app using React.js with a responsive interface, boosting user engagement by 20%.Integrated a SearchBar feature to enhance user experience.",
     link: "https://flick-hub-kartik.vercel.app/",
   },
-  {
-    iconUrl: snapgram,
-    theme: "btn-back-pink",
-    name: "An Organic Store",
-    description:
-      "Created a web-based store with an adaptive, responsive interface, tailored to improve user experience.Integrated Auth0 for secure user authentication, ensuring robust data protection and seamless login functionality",
-    link: "https://organic-store-kartik.vercel.app/",
-  },
+  
   {
     iconUrl: estate,
     theme: "btn-back-black",
